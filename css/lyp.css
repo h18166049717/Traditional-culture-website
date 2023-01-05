@@ -1,0 +1,23 @@
+@charset "utf-8";
+.ccde {
+	background-color: #ECE4D9;
+}
+
+.hbh {
+	font-size: 12px;
+	background-image: url(../img/guo10.jpg);
+}
+body {
+	background-image: url(../img/guo10.jpg);
+}
+
+
+
+.fushidi {
+	background-color: #293B48;
+	color: #FFF;
+	text-align: center;
+}
+.fushibeijing {
+	background-image: url(../img/guo14.jpg);
+}

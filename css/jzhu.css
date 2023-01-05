@@ -1,0 +1,15 @@
+@charset "utf-8";
+.jianzhu {
+	background-color: #d4776e;
+	font-size: 16px;
+	color: #FFF;
+	padding-left: 700px;
+	width: auto;
+}
+.aas {
+	background-color: #9da2ae;
+}
+body {
+	background-image: url(../img/nnu.jpg);
+	background-repeat: repeat;
+}

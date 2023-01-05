@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+}
+.yyy {
+	background-image: url(../img/000.png);
+	background-repeat: no-repeat;
+}
+.xzc {
+	background-image: url(../img/222.jpg);
+	background-repeat: repeat;
+}
